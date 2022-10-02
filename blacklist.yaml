@@ -1,0 +1,2 @@
+filterBlacklist: true
+filterFunctions: ["C.reset1()", "C.reset2()"]
